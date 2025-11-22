@@ -14,3 +14,9 @@
 
 ----------------
 [Geometry Dash Lite](Geometry Dash Lite.html)
+
+----------------
+[Slowroads.io](Slowroads.html)
+
+----------------
+[Stickman Hook](stickmanhook.html)
