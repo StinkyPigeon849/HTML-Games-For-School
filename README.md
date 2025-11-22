@@ -25,9 +25,6 @@
 [Gunspin](Gunspin.html)
 
 ----------------
-[Drift Boss](drift-boss.html)
-
-----------------
 [Space Waves](space-waves.html)
 
 ----------------
