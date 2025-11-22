@@ -18,4 +18,4 @@
 [**Townscaper**](townscaper.html) | [**Slope Offline**](slopeoffline.html) | [**Solar Smash**](Solar-Smash.html)
 
 ----------------
-[**Crossy Road**](crossy-road.html) | [**Tunnel Rush**](tunnel-rush.html) | [**Run 3**](run3.html)
+[**Crossy Road**](crossy-road.html) | [**Tunnel Rush**](tunnel-rush.html) | [**Run 3**](Run3.html)
