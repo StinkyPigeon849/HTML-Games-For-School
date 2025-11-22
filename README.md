@@ -3,6 +3,7 @@
 
 
 ----------------
+![](snowrider3d_1024.png)
 [**Snow Rider 3d**](snow-rider.html)
 
 ----------------
