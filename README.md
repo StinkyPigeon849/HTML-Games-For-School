@@ -16,6 +16,9 @@
 [**Fancade**](fancade.html)
 
 ----------------
+[**Eaglercraft 1.8.8**](Eaglercraft.html)
+
+----------------
 [**Geometry Dash Lite**](Geometry-dash-lite.html)
 
 ----------------
@@ -35,3 +38,6 @@
 
 ----------------
 [**Slope Offline**](slopeoffline.html)
+
+----------------
+[**Solar Smash**](Solar-Smash.html)
