@@ -4,7 +4,7 @@
 ##### Snow Rider 3d, MotoX3m, Smash Karts, and more...
 
 <center>
-<button onclick="openGame()" style="background-color: #228B22; color: #fff; border: 1; border-color: #228B22; vertical-align: center; font-size: 26px; width:100%; cursor: pointer; border-radius: 10px;"> Snow Rider 3d </button>
+<button onclick="openGame()" style="background-color: #228B22; color: #fff; border: 1; border-color: #228B22; vertical-align: center; font-size: 26px; width:50%; cursor: pointer; border-radius: 10px;"> Snow Rider 3d </button>
 <script>
 function openGame() {
 	var win = window.open ()
