@@ -20,9 +20,18 @@ function openGame() {
 </center>
 
 
-
-
-
-
-
-
+<center>
+<button onclick="openGame()" style="background-color: #228B22; color: #fff; border: 1; border-color: #228B22; vertical-align: center; font-size: 26px; width:100%; cursor: pointer; border-radius: 10px;"> Smash Karts </button>
+<script>
+function openGame() {
+	var win = window.open ()
+	var url = "https://smashkarts.io"
+	var iframe = win.document.createElement('iframe')
+	iframe.style.width = "100%"
+	iframe.style.height = "100%"
+	iframe.style.border = "none"
+	iframe.src = url
+	win.document.body.appendChild(iframe)
+}
+</script>
+</center>
