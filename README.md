@@ -46,3 +46,6 @@
 
 ----------------
 [**Solar Smash**](Solar-Smash.html)
+
+----------------
+[**Crossy Road**](crossy-road.html)
