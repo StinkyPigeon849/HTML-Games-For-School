@@ -13,7 +13,7 @@
 [MotoX3m](moto-x3m-2.html)
 
 ----------------
-[Geometry Dash Lite](Geometry Dash Lite.html)
+[Geometry Dash Lite](Geometry-dash-lite.html)
 
 ----------------
 [Slowroads.io](Slowroads.html)
