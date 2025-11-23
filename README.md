@@ -7,7 +7,7 @@
 [**Snow Rider 3d**](snow-rider.html) | [**Smash Karts**](Smashkarts.html) | [**MotoX3m**](moto-x3m-2.html)
 
 ----------------
-[**Fancade**](fancade.html) | [**Eaglercraft 1.8.8**](Eaglercraft.html) | [**Eaglercraft every version](DeviousEaglerClient.html)
+[**Fancade**](fancade.html) | [**Eaglercraft 1.8.8**](Eaglercraft.html) | [**Eaglercraft every version**](DeviousEaglerClient.html)
 
 ----------------
 [**Slowroads**](Slowroads.html) | [**Bloxd.io**](bloxd.io.html) | [**Stickman Hook**](stickmanhook.html)
