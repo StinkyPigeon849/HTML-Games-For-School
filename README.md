@@ -1,4 +1,24 @@
 # **Pickelrick67**
+
+<style>
+body {
+  background: url("picklerick.jpg") repeat;
+}
+#banner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 200px;
+  z-index: -1;
+}
+</style>
+</head>
+<body>
+  <img id="banner" src="picklerick.jpg" alt="Pickelrick67"/>
+</body>
+
 ##### Snow Rider 3d, MotoX3m, Smash Karts, and more unblocked to play in your browser...
 
 
