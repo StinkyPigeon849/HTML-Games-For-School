@@ -26,7 +26,7 @@
 [**Escape Road 2**](escape-road-2.html) | [**Eggy Car**](eggycar.html) | [**Paper.io 2**](paper.io2.html)
 
 ----------------
-[**Geometry Dash Lite**](Geometry-dash-lite.html) | [**2 Player Mini Battles**](cl12minibattles.html)
+[**Geometry Dash Lite**](Geometry-dash-lite.html) | [**2 Player Mini Battles**](cl12minibattles.html) | [**Cookie CLicker**](cookie-clicker.html)
 
 ----------------
 
