@@ -1,7 +1,6 @@
 # **Pickelrick67**
 
-#### Games
-##### Snow Rider 3d, MotoX3m, Smash Karts, and more unblocked to play in your browser...
+##### All in your browser...
 
 
 ----------------
@@ -29,10 +28,6 @@
 [**Geometry Dash Lite**](Geometry-dash-lite.html) | [**2 Player Mini Battles**](cl12minibattles.html) | [**Cookie CLicker**](cookie-clicker.html)
 
 ----------------
-
-#### School Unblockers
-##### Play games undetected, only use small websites, otherwise these will get blocked
-
 
 ----------------
 [**Devious Unblocker**](devious-unblocker.html) | [**Googel**](googel.html) | [**Helios Browser**](Helios-Offline.html)
